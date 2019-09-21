@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item
+        android:id="@+id/action_list"
+        tools:title="1"
+        app:showAsAction="never"
+        android:title="" />
+    <item
+        android:id="@+id/action_grid"
+        tools:title="2"
+        app:showAsAction="never"
+        android:title="" />
+    <item
+        android:id="@+id/action_cardview"
+        tools:title="3"
+        app:showAsAction="never"
+        android:title="" />
+</menu>
